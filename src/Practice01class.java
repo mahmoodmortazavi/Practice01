@@ -6,4 +6,6 @@ public class Practice01class {
     int e;
     int gb1;
     int hb1;
+    int ib1;
+    int lb1;
 }
