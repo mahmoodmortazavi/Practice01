@@ -5,4 +5,5 @@ public class Practice01class {
     int d;
     int e;
     int gb1;
+    int hb1;
 }
