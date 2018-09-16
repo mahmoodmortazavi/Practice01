@@ -4,4 +4,5 @@ public class Practice01class {
     int c;
     int d;
     int e;
+    int gb1;
 }
